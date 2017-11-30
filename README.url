@@ -1,2 +1,3 @@
 [InternetShortcut]
 URL=https://github.com/hankcs/HanLP/
+将hanlp中的data文件夹复制到与src同一个根目录下，hanlp.properties复制到bin中或bin的同一级目录中
